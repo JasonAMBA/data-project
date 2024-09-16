@@ -20,9 +20,9 @@ Dans un premier temps, il faut d'abord télécharger le jeu de données complet 
 Après avoir téléchargé le jeu de données complet, il faudra le mettre sur le répertoire du projet
 
 ## Installation
-1. Clonez le repo :
+1. Clonez le repo : git clone https://github.com/JasonAMBA/data-project.git
 
-2. Accédez au répertoire du projet :
+2. Accédez au répertoire du projet : cd data-project
 
 3. Installez les dépendances : Dans le répertoire du projet, taper : "pip install -r requirements.txt"
 
