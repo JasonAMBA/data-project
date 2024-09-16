@@ -3,7 +3,7 @@
 ## Description
 Embauché en tant que Consultant data au sein de Home Credit, l'objectif etait de développer un modèle de credit scoring et le mettre en production.
 
-# ## Structure du Repo
+## Structure du Repo
 - `notebooks/`: Contient le notebook Python expliquant la démarche, le nettoyage des données et la modélisation.
 - `notebook_credit_scoring_model`: Contient le notebook pour le développement du modèle
 - `notebook_merged_data`: Contient le notebook pour la fusion des données.
